@@ -16,3 +16,4 @@ IMPLEMENTATION:
 8) find out the unique code for all the characters and multiply the bits in the unique code with their frequencies and add them to get the new size.
 9) the original size of the file would be no of characters X 8 assuming ascii value is represented in 8bits.
 10) this is how you can get the new compressed file with smaller size as compare to the original and in this process you learned the use of hash maps, trees, priority queues, vectors and making custom comparator along with the use of OOPS.
+
