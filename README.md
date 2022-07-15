@@ -4,7 +4,7 @@ it is implemented using a lot of data structures such as hash maps, vectors, pri
 you will learn a lot about data structures by making this project since it involves use of a lot of data structures.
 it also involves the use of OOPS concept that is object-oriented programming. it is a very useful algorithm which is used very oftenly.
 
-IMPLEMENTATION: 
+# **IMPLEMENTATION**: 
 
 1) the idea it first to calculate the frequency of all characters using a HashMap or a vector of type pair<char,int>.
 2) the create a priority queue (min heap)  an insert all the elements inside the minheap.
