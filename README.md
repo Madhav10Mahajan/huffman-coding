@@ -1,4 +1,4 @@
-# Huffman-Coding
+# **Huffman-Coding**
 Huffman coding is file compression algorithm based on greedy approach.
 it is implemented using a lot of data structures such as hash maps, vectors, priority queues and trees.
 you will learn a lot about data structures by making this project since it involves use of a lot of data structures.
